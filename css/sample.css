@@ -1,0 +1,43 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    text-align: center;
+  }
+  .main-header {
+    padding-bottom: 15%;
+    width: 100%;
+    background-size: cover;
+    background-image: url("../images/header.jpg");
+    background-attachment: fixed;
+  }
+  /* from here */
+  header {
+  }
+  header ul {
+  }
+  header ul a {
+  }
+  header li {
+  }
+  header ul:after {
+  }
+  /* Jusqu'ici, il s'agit de l'implémentation de la partie en-tête. */
+  .main-header img {
+  /* Mise en œuvre de l'image principale (image texte blanche "Achieve") */
+  }
+  .about {
+  /* A propos de la mise en œuvre de la partie Achieve */
+  }
+  /* à partir d'ici */
+  .function {
+  }
+  .function-images {
+  }
+  .function-image {
+  }
+  /* Jusqu'ici, il s'agit de la mise en œuvre de la partie fonction*/
+  footer {
+  /* Mise en œuvre de la partie pied de page */
+  }
